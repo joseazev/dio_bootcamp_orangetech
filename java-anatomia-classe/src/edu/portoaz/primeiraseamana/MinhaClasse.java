@@ -1,3 +1,4 @@
+package edu.portoaz.primeiraseamana;
 //Classes em java sempre inicião com letras maiusculas
 
 public class MinhaClasse {
